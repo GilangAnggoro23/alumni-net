@@ -1,6 +1,9 @@
 .carousel-header .carousel-inner .carousel-item img{
     object-fit: fill !important;
 }
+.service .service-item .service-inner .service-img > img{
+    height: 280px;
+}
 
 @media(max-width : 992px){
     .carousel-header .carousel-inner .carousel-item img{
