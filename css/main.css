@@ -1,0 +1,10 @@
+.carousel-header .carousel-inner .carousel-item img{
+    object-fit: fill !important;
+}
+
+@media(max-width : 992px){
+    .carousel-header .carousel-inner .carousel-item img{
+        object-fit: contain !important;
+    }
+
+}
