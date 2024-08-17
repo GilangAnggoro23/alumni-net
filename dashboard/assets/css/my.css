@@ -1,0 +1,7 @@
+:root {
+  --mycolor: #15406a;
+}
+
+.bg-bpvp {
+  background-color: var(--mycolor) !important;
+}
